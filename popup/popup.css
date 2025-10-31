@@ -62,3 +62,17 @@ body::after {
   display: block;
   height: 30px;
 }
+
+.startBtn{
+  height: 12%;
+  width: 24%;
+  margin-top: 10%;
+  border:1px solid black;
+  font-size: 12px;
+}
+
+.startBtn:hover{
+  background-color: #8db8e8;
+  width: 26%;
+
+}

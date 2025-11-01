@@ -13,8 +13,9 @@
       "js": ["scripts/content.js"],
       "matches": [
         "https://medium.com/*",
-        "https://*.substack.com/p/*"
+        "https://*.substack.com/p/*",
+        "https://en.wikipedia.org/wiki/*"
       ]
     }
-  ]
-}
+  ]}
+

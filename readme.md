@@ -5,3 +5,6 @@ The core inspiration was: if I could integrate the learning process directly int
 ## What it does
 anuvad is a chrome extension that fits into user's everyday browsing making it in place contextual language practice. With a single click, it selects a random from the webpage article and marks it with a dashed underline.
 When the user hovers over the underlined word, a pop-up instantly appears with the translation of the word.
+
+# video walkthrough
+https://youtu.be/YPdJRZ91W7w
